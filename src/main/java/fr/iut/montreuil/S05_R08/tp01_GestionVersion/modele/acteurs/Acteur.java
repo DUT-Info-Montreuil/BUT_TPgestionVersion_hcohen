@@ -17,6 +17,7 @@ public class Acteur {
             id="a"+a;
             a++;
         }
+        
         this.x = new SimpleIntegerProperty(x);
         this.y = new SimpleIntegerProperty(y);
     }
