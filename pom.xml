@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.iut.montreuil.S05_R08.tp01_GestionVersion</groupId>
     <artifactId>talesOfABlindWorldGOTY</artifactId>
-    <version>1.0.3-snapshot</version>
+    <version>1.3.0-snapshot</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
