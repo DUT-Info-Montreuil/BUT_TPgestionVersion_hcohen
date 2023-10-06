@@ -18,6 +18,7 @@ public class Joueur {
 
     private IntegerProperty hp = new SimpleIntegerProperty();
     private Arme arme;
+    
     private ArmeDistance armeDistance;
     private Console console;
     private IntegerProperty xProperty = new SimpleIntegerProperty(0);
